@@ -9,3 +9,5 @@ The Bechdel-Wallace Test — often abbreviated to the "Bechdel Test" — evaluat
 To perform your visualization, you'll use a dataset called "The Next Bechdel Test" from fivethirtyeight.com
 
 In addition to results of the Bechdel test, this dataset includes the results of similar representation tests developed by members of the movie industry and evaluated by fivethirtyeight.com.
+
+PS.:The CSV file used for the project is in this repository
