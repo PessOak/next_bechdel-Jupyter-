@@ -1,4 +1,5 @@
 # next_bechdel-Jupyter-
+This is a guided project imported from Jupyter Notebooks
 
 In this project you'll use data visualization techniques to analyze how the top 50 movies of 2016 performed according to the Bechdel Test and other representation-based tests.
 
